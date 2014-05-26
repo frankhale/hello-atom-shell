@@ -10,5 +10,5 @@
 		  :id "dev",
 		  :compiler
 			{:output-to "main.js",
-			 :optimizations :whitespace
+			 :optimizations :simple
 			 :pretty-print true}}]})
