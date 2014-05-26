@@ -1,5 +1,8 @@
 #hello-atom-shell
 
+***STILL BROKEN IN 0.12.6***
+
+
 Non-working port of the atom-shell hello-app application to Clojurescript.
 
 The hello-app can be seen on the atom-shell Quick Start page:
